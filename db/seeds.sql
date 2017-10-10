@@ -1,6 +1,6 @@
 INSERT INTO burgers (burger_name)
-VALUES("Bacon Cheeseburger");
+VALUES("Big Mac");
 INSERT INTO burgers (burger_name)
-VALUES("The Madlove Burger");
+VALUES("Whopper");
 INSERT INTO burgers (burger_name)
-VALUES("The Southern Charm Burger");
+VALUES("Baconator");
