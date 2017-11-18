@@ -7,5 +7,6 @@ This full stack app keeps track of burgers eaten. The user input the name of a b
 # Technology Used
 * Node.js
 * Express
+* Handlebars
 * MySQL
 * Heroku
